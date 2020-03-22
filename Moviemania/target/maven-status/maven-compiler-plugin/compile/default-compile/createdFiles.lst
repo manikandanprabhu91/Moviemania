@@ -1,0 +1,5 @@
+com\carefirst\moviemania\service\MoviemaniaService.class
+com\carefirst\moviemania\config\ApplicationSecurityConfig.class
+com\carefirst\moviemania\Application.class
+com\carefirst\moviemania\config\Swagger2Config.class
+com\carefirst\moviemania\repository\MoviemaniaRepository.class
