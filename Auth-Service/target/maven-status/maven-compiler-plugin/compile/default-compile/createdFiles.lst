@@ -1,0 +1,6 @@
+com\carefirst\auth\config\AuthConfigProperties.class
+com\carefirst\auth\repository\AuthenticationRepository.class
+com\carefirst\auth\entity\User.class
+com\carefirst\auth\Application.class
+com\carefirst\auth\config\Swagger2Config.class
+com\carefirst\auth\domain\UserDto.class
