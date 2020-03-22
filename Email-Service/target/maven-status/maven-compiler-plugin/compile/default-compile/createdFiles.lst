@@ -1,0 +1,4 @@
+com\carefirst\email\repository\EmailRepository.class
+com\carefirst\email\service\EmailService.class
+com\carefirst\email\constant\ApplicationConstants.class
+com\carefirst\email\config\EmailConfigProperties.class
